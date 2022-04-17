@@ -1,4 +1,4 @@
-# [Car Price Prediction Assignment](https://github.com/InsaneSidd/Car-Price-Assignment-1)
+# [Machine Learning Models](https://github.com/InsaneSidd/Car-Price-Assignment-1)
 ## Model Type - Linear Regression Model
 
 #### HIGHLIGHTS OF THE ASSIGNMENT
