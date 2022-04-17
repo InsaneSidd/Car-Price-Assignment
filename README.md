@@ -1,14 +1,14 @@
 # [Machine Learning Models](https://github.com/InsaneSidd/Car-Price-Assignment-1)
-# Car Price Pridiction Assignment
+# [Car Price Pridiction Assignment](https://github.com/InsaneSidd/Machine-Learning-Models/blob/main/CarPrice%20Prediction%20Assignment.ipynb)
 ## Model Type - Linear Regression Model
-
-#### HIGHLIGHTS OF THE ASSIGNMENT
 
 Final Scatter plot of the model: 
 
 ![alt text](https://github.com/InsaneSidd/Car-Price-Assignment-1/blob/main/CarPrice%20Assignment%20Scatter%20Plot.png "Logo Title Text 1")
 
-# Titanic Dataset Assignment.
+# [Titanic Dataset Assignment.](https://github.com/InsaneSidd/Machine-Learning-Models/blob/main/Titanic%20Dataset%20-%20Logistic%20Regression.ipynb)
 ## Model Type - Logistic Regression Model
 
+Final Classification Reoort
 
+![alt text](https://github.com/InsaneSidd/Machine-Learning-Models/blob/main/Logistic%20Regression%20Accuracy.png "Logo Title Text 1")
